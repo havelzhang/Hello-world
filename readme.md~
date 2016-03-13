@@ -12,11 +12,6 @@ my ($h,@row,$sql,$sth,$dbh);
 ### is 
 ##end
 
-hello
-=====
-
-
-
 
 # 欢迎使用马克飞象
 
